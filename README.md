@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnny Miguel Sebastian Roque Neciosup
 - 👀 I’m interested in Mobile development
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on mobile projects
 - 📫 How to reach me rnsebastian701@gmail.com
 
